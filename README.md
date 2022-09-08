@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking for an intership in software engineering android or others 🤝;
 - 🤔 I’m not too bad with algorithms;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- ⚡️ Fun-Fact: I have a degree in computer science;
 - 📫 How to reach me: romain.v@live.be;
 
 **Languages and Tools:** 
@@ -45,11 +45,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 </p>
 
 <!-- Your hits or visitors
@@ -66,7 +66,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/RomainVandemaele/THE">
+  <a href="https://github.com/RomainVandemaele/TFE">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomainVandemaele&repo=TFE" />
   </a>
 </p>
